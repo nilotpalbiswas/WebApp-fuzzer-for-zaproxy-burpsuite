@@ -1,0 +1,7 @@
+root:x
+daemon:x
+bin:x
+mail:x
+www-data:x
+mysql:x
+[driver
