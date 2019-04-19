@@ -1,3 +1,5 @@
+proc/self/environ
+proc/self/environ%00
 apache2/logs/access.log
 apache2/logs/access_log
 apache2/logs/access.log%00
